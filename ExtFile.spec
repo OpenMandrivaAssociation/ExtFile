@@ -15,7 +15,6 @@ Group:              Development/Python
 Requires:           zope python-imaging
 License:            GPL
 URL:                http://www.zope.org
-BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
 Buildarch:	noarch
 
 Source: %{name}-%{version}.tar.bz2
