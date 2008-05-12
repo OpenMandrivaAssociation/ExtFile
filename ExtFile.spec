@@ -1,7 +1,7 @@
 %define name      ExtFile
 %define longtitle A Zope product to store larges files outside the ZODB
 %define version   1.1.3
-%define release   %mkrel 5
+%define release   %mkrel 6
 
 
 
@@ -16,7 +16,6 @@ Requires:           zope python-imaging
 License:            GPL
 URL:                http://www.zope.org
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
-Buildarch:	noarch
 
 Source: %{name}-%{version}.tar.bz2
 
