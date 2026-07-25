@@ -1,7 +1,7 @@
 %define name      ExtFile
 %define longtitle A Zope product to store larges files outside the ZODB
 %define version   1.1.3
-%define release   %mkrel 9
+%define release 10
 
 
 
@@ -99,7 +99,7 @@ rm -rf $RPM_BUILD_ROOT
 * Mon Jun 19 2006 Lenny Cartier <lenny@mandriva.com> 1.1.3-5mdv2007.0
 - rebuild
 
-* Fri May 13 2005 Nicolas Lécureuil <neoclust@mandriva.org> 1.1.3-4mdk
+* Fri May 13 2005 Nicolas Lï¿½cureuil <neoclust@mandriva.org> 1.1.3-4mdk
 - Rebuild
 
 * Wed Sep 05 2003 Sebastien Robin <seb@nexedi.com> 1.1.3-3mdk
